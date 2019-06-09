@@ -5,6 +5,14 @@
 { To achieve good result first need to learn required libraries and its working architecture to get Optimal results. }
 All the Required Libraries Core Implementation with the Core concepts with Details
 
+### >>> for noobies to python journey start with 
+### 1. Installation the python3 (you can select as per your wish)
+### 2. Install Jupyter Notebook (or anyother as per your wish, jupyter is best to understand the code and output.)
+### 3. Install required Dependencies 
+### 4. follow up the series Start with 01,02,03 files from the given source.
+#### (note: afer compliting {Python Crash Corse seriese (01,02,03)} from this Tutorial Series then try to solve the excercises by yourself.)
+### 5. you are ready to go ....!!
+
 ### Libraies Are Implemented And Updated Regularly Basis { hope so }
  1. Pandas
  2. Tensorflow
