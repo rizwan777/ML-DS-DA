@@ -1,6 +1,6 @@
 
  
-                                            ### Python for Data Science ###
+                                            #center> Python for Data Science</center>
                                             
 
 ==> In this Tutorial Series  i will trying to help you through out the journey to Data Science. 
@@ -10,8 +10,8 @@
 ==> it really doesn't matter what profession you are belonging, time is always right just thing is that we need to accept/reject it.
     
 >>> for noobies to python journey start with 
-    1. Installation the python3 (you can select as per your wish)
-    2. Install Jupyter Notebook (or anyother as per your wish, jupyter is best to understand the code and output.)
+### 1Installation the python3 (you can select as per your wish)
+### 2. Install Jupyter Notebook (or anyother as per your wish, jupyter is best to understand the code and output.)
     3. Install required Dependencies 
     4. follow up the series Start with 01,02,03 files from the given source.
     (note: afer compliting {Python Crash Corse seriese (01,02,03)} from this Tutorial Series then try to solve the excercises by yourself.)
