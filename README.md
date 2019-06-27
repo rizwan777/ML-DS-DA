@@ -42,6 +42,10 @@ and then after one by one uncomment the code and take a look to its output..!!
     
 ## >>> or, you think if you comfortable with the python basics then you can directly follow up from the journey at first point to the end.
 ### 1. Numpy (all operations realted to array which are useful to us was covered)
+       1. All the basics commands
+       2. Indexing and Selection
+       3. Arithmetic Operation 
+       4. Excersices For Numpy with Solution are Added..!!
     .... updated soon...    
     
 
