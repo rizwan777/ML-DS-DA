@@ -17,6 +17,7 @@ All the Required Libraries Core Implementation with the Core concepts with Detai
  1. Pandas
  2. Tensorflow
  3. Numpy 
+ 4. Maths { formulas and Explainations }
 
 ### In all Above Mantion Libraries i have coded for core concepts to become more familiar download zip file and use it.
 In Each and Every code files i have written all the useful core concepts and its notes will be mantion line by line to learn/implement easily.
