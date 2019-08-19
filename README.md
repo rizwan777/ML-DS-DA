@@ -19,10 +19,14 @@ All the Required Libraries Core Implementation with the Core concepts with Detai
        2. Indexing and Selection
        3. Arithmetic Operation 
        4. Excersices For Numpy with Solution are Added..!!
-     
  2. Pandas
  3. Tensorflow
  4. Maths { formulas and Explainations }
+ 5. lets starts with the Kaggle Problems for beginners then after
+    1. kaggle_work distinaroy start with the normal problems.
+    2. I suggest personally go with the (image) problems then go with the depth.
+    
+    
   .... updated soon...  
 
 ### In all Above Mantion Libraries i have coded for core concepts to become more familiar download zip file and use it.
